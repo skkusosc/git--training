@@ -1,6 +1,6 @@
 /*
  * Packing knapsack question
- * Jaehyeok
+ * Jaehyeok ffff
  * Copyright (C) 2016, Taeung Song <treeze.taeung@gmail.com>
  *
  */
