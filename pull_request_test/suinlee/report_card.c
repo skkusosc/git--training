@@ -5,10 +5,10 @@ int main()
 	int kor, eng, math;
 	int sum = 0;
 
-	math = 88;
+	math = 87;
 	eng = 100;
 	kor = 90;
-	sum = 88 + 100 + 90;
+	sum = 87 + 100 + 90;
 
 	printf("This program print report card.\n");
 
