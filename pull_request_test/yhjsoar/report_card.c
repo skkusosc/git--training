@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("윤혜진");
+	printf("This program print report card.\n");
 	return 0;
 }
